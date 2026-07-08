@@ -205,11 +205,6 @@ Emotion-Based-Music-Recommender/
 - Mobile application deployment
 - Support for multiple languages and cultures
 
----
-
-## 📸 Demo
-
-*(Add screenshots or GIFs demonstrating emotion detection and music recommendations.)*
 
 ---
 
